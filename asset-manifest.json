@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-machine/static/css/main.ba254b4f.css",
+    "main.js": "/task-machine/static/js/main.ee7a53b1.js",
+    "index.html": "/task-machine/index.html",
+    "static/media/delete.svg": "/task-machine/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/task-machine/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.ba254b4f.css.map": "/task-machine/static/css/main.ba254b4f.css.map",
+    "main.ee7a53b1.js.map": "/task-machine/static/js/main.ee7a53b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba254b4f.css",
+    "static/js/main.ee7a53b1.js"
+  ]
+}
